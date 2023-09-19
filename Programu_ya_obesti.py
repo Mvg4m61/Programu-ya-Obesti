@@ -23,7 +23,7 @@ if obesti_mpya < 18.5:
 	print(f"Obesti yako ni {obesti_mpya}, upo chini ya uzito.") 
 elif obesti_mpya < 25:
 	   print(f"Obesti yako Ni {obesti_mpya}, uko na uzito wa kawaida.")
-elif obsti_mpya < 30:
+elif obesti_mpya < 30:
 	   print(f"Obesti yako ni {obesti_mpya}, uko juu ya uzito.")
 elif obesti_mpya  < 35:
 	   print(f"Obesti yako ni {obesti_mpya}, uko na obesti.")

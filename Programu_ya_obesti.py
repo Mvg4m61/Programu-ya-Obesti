@@ -28,4 +28,4 @@ elif obesti_mpya < 30:
 elif obesti_mpya  < 35:
 	   print(f"Obesti yako ni {obesti_mpya}, uko na obesti.")
 else:
-	   print(f"Obesti yako ni {obesti_mpya}, upo kwaenye Hali ya hatari ya obesti.")
+	   print(f"Obesti yako ni {obesti_mpya}, upo kwenye hali ya hatari ya obesti.")
